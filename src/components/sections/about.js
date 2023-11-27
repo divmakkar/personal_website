@@ -139,11 +139,6 @@ const About = () => {
               primarily in the field of Machine Learning and Deep Learning. I have also dabbled a
               little with creating decentraiized applications using Ethereum Blockchain.
             </p>
-            {/* Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p> */}
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
