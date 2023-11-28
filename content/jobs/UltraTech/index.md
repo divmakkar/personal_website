@@ -1,7 +1,7 @@
 ---
 date: '2018-05-14'
 title: 'Data Analytics Intern'
-company: 'UltraTech Private Limited'
+company: 'UPL'
 location: 'Gujarat, India'
 range: ' 2018 - Present'
 url: 'https://www.ultratechcement.com/'
